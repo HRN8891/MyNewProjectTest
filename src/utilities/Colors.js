@@ -1,0 +1,16 @@
+export const Colors = {
+  PrimaryText: '#656565',
+  SecondaryText: '#989898',
+  BorderLine: 'rgba(255, 255, 255, 0.5)',
+  InputBorderBottom: 'rgba(255, 255, 255, 0.2)',
+  transparent: 'transparent',
+  redColor: '#FE5F6B',
+  white: '#ffffff',
+  black1: '#000000',
+  black2: 'rgba(8, 20, 29, 0.6)',
+  grey1: '#4A4A4A',
+  grey2: '#484848',
+  grey3: '#D3D3D3',
+  grey4: 'rgb(245, 245, 245)',
+  blue1: '#0000EE',
+};
